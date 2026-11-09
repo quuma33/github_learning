@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>くまお３ 特設❤️Sakura</title>
+</head>
+<body>
+    <h1>くまおのおしり</h1>    
+    <p>くまおのかわいいおしりを見てください！ むふっ</p>
+    <p>おいしくなーれっ！ えいっ！</p>
+    <h2>はいっ！喜んで！！</h2>
+</body>
+</html>
